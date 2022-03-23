@@ -1,4 +1,7 @@
 package thread;
+/**
+ * Week 6 : Wednesday, 23 Maret 2022
+ */
 
 //public class ThreadKuu implements Runnable{
 public class ThreadKuu extends Thread{
